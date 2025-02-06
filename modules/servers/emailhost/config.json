@@ -1,0 +1,6 @@
+{
+    "name": "emailhost",
+    "description": "Module for provisioning and managing email accounts",
+    "version": "1.0",
+    "author": "Sundram Tiwari"
+}
