@@ -1,0 +1,6 @@
+{
+    "name": "emailhostaddon",
+    "description": "Addon for managing email hosting features such as autoresponders and email forwarding.",
+    "version": "1.0",
+    "author": "Sundram Tiwari"
+}
